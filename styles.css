@@ -1,0 +1,66 @@
+/* body {
+  margin: 0;
+}
+h1 {
+  margin: 0;
+  font-size: 1.5em;
+  color: brown;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  text-align: center;
+  padding: 0.5em;
+}
+
+p,
+li,
+th,
+td {
+  font-size: 1.2em;
+  padding: 1em;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+div {
+  background-color: aquamarine;
+} */
+h1 {
+  font-size: 120%;
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+div {
+  margin: auto;
+  width: 70%;
+}
+tr > td {
+  width: 400px;
+  height: 300px;
+  border: 0.5em solid white;
+}
+
+#one {
+  background-color: red;
+  margin-right: 0.4em;
+}
+
+#two {
+  background-color: blue;
+  margin-right: 0.4em;
+}
+
+#three {
+  background-color: yellow;
+  margin-right: 0.4em;
+}
+
+#four {
+  background-color: green;
+  margin-right: 0.4em;
+}
+
+#five {
+  background-color: brown;
+  margin-right: 0.4em;
+}
